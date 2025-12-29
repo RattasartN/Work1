@@ -1,0 +1,7 @@
+D:\Microsoft VS Code\locales\Work\Work\bin\Debug\Work.exe.config
+D:\Microsoft VS Code\locales\Work\Work\bin\Debug\Work.exe
+D:\Microsoft VS Code\locales\Work\Work\bin\Debug\Work.pdb
+D:\Microsoft VS Code\locales\Work\Work\obj\Debug\Work.csproj.AssemblyReference.cache
+D:\Microsoft VS Code\locales\Work\Work\obj\Debug\Work.csproj.CoreCompileInputs.cache
+D:\Microsoft VS Code\locales\Work\Work\obj\Debug\Work.exe
+D:\Microsoft VS Code\locales\Work\Work\obj\Debug\Work.pdb
